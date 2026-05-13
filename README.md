@@ -98,5 +98,5 @@ HistoryResultActivity	Menampilkan riwayat pendaftaran
 ## 📂 Video Penjelasan Kode & Tampilan
 
 Gdrive :
-https://drive.google.com/file/d/1fsoUWT7aBNmhn4kZHV2aQSWDv1iqqgMN/view?usp=drive_link
+https://drive.google.com/file/d/1fsoUWT7aBNmhn4kZHV2aQSWDv1iqqgMN/view?usp=drive_link](https://drive.google.com/drive/folders/1mfjIFkSuAd0sVCjuvHA1n2L2OnHCeCt3?usp=sharing)
 
